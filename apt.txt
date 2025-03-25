@@ -1,2 +1,4 @@
 libnfs-utils
 nfs-common
+netcat-traditional
+dnsutils
